@@ -1,0 +1,49 @@
+D:\proiecte c#\Sanki's BlackJack\bin\Debug\Sanki's BlackJack.exe.config
+D:\proiecte c#\Sanki's BlackJack\bin\Debug\Sanki's BlackJack.exe
+D:\proiecte c#\Sanki's BlackJack\bin\Debug\Sanki's BlackJack.pdb
+D:\proiecte c#\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.csproj.AssemblyReference.cache
+D:\proiecte c#\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.csproj.SuggestedBindingRedirects.cache
+D:\proiecte c#\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.Properties.Resources.resources
+D:\proiecte c#\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.csproj.GenerateResource.cache
+D:\proiecte c#\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.csproj.CoreCompileInputs.cache
+D:\proiecte c#\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.exe
+D:\proiecte c#\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.pdb
+D:\proiecte c#\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormStart.resources
+D:\proiecte c#\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormInregistrare.resources
+D:\proiecte c#\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormAutentificare.resources
+D:\proiecte c#\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormMeciuJoc.resources
+D:\proiecte c#\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormOptiuni.resources
+D:\proiecte c#\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormInserareImagini.resources
+D:\proiecte c#\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormJoc.resources
+D:\school\info c#\Sanki's BlackJack\bin\Debug\Sanki's BlackJack.exe.config
+D:\school\info c#\Sanki's BlackJack\bin\Debug\Sanki's BlackJack.exe
+D:\school\info c#\Sanki's BlackJack\bin\Debug\Sanki's BlackJack.pdb
+D:\school\info c#\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.csproj.AssemblyReference.cache
+D:\school\info c#\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.csproj.SuggestedBindingRedirects.cache
+D:\school\info c#\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormStart.resources
+D:\school\info c#\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormInregistrare.resources
+D:\school\info c#\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormAutentificare.resources
+D:\school\info c#\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormMeciuJoc.resources
+D:\school\info c#\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormOptiuni.resources
+D:\school\info c#\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormJoc.resources
+D:\school\info c#\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.Properties.Resources.resources
+D:\school\info c#\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.csproj.GenerateResource.cache
+D:\school\info c#\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.csproj.CoreCompileInputs.cache
+D:\school\info c#\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.exe
+D:\school\info c#\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.pdb
+D:\proiecte c#\Sanki Blackjack Raileanu\Sanki's BlackJack\bin\Debug\Sanki's BlackJack.exe.config
+D:\proiecte c#\Sanki Blackjack Raileanu\Sanki's BlackJack\bin\Debug\Sanki's BlackJack.exe
+D:\proiecte c#\Sanki Blackjack Raileanu\Sanki's BlackJack\bin\Debug\Sanki's BlackJack.pdb
+D:\proiecte c#\Sanki Blackjack Raileanu\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.csproj.AssemblyReference.cache
+D:\proiecte c#\Sanki Blackjack Raileanu\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.csproj.SuggestedBindingRedirects.cache
+D:\proiecte c#\Sanki Blackjack Raileanu\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormStart.resources
+D:\proiecte c#\Sanki Blackjack Raileanu\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormInregistrare.resources
+D:\proiecte c#\Sanki Blackjack Raileanu\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormAutentificare.resources
+D:\proiecte c#\Sanki Blackjack Raileanu\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormMeciuJoc.resources
+D:\proiecte c#\Sanki Blackjack Raileanu\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormOptiuni.resources
+D:\proiecte c#\Sanki Blackjack Raileanu\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.FormJoc.resources
+D:\proiecte c#\Sanki Blackjack Raileanu\Sanki's BlackJack\obj\Debug\Sanki_s_BlackJack.Properties.Resources.resources
+D:\proiecte c#\Sanki Blackjack Raileanu\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.csproj.GenerateResource.cache
+D:\proiecte c#\Sanki Blackjack Raileanu\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.csproj.CoreCompileInputs.cache
+D:\proiecte c#\Sanki Blackjack Raileanu\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.exe
+D:\proiecte c#\Sanki Blackjack Raileanu\Sanki's BlackJack\obj\Debug\Sanki's BlackJack.pdb
