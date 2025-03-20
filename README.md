@@ -5,7 +5,7 @@ Also, I could not upload the database file to GitHub, as it was bigger than 100m
 
 Main functionalities:
   - playing matches of blackjack with all actions: double down, split, etc.
-  - access to statistics of the account, as matches won, dollars won or longest winning streak
+  - access to statistics of the account, such as matches won, dollars won or longest winning streak
   - the option to switch between 5 decks of cards based on the account's statistics
 
 Technologies used:
